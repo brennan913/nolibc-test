@@ -6,7 +6,6 @@
 // #include <stdlib.h>
 // #include <string.h>
 // #include <sys/mman.h>
-#include <assert.h>
 
 static void test_mmap(void)
 {
